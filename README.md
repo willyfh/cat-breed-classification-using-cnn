@@ -6,6 +6,8 @@ In this project, I built a machine learning model capable of classifying images 
 
 **Attention:** the notebook was executed & tested using GPU. So please make sure the GPU is available to avoid unexpected error.
 
+You may also find the notebok file from this Google Colab page : https://colab.research.google.com/drive/17JsvgWQKitcmM18E9bd-eCQIZ6p5ES6d
+
 ### Prerequisites (the installation cell is provided in the notebook):
 
 - torch==1.3.1
