@@ -21,6 +21,9 @@ You may also find the notebok file from this Google Colab page : https://colab.r
 
 The dataset which will be used for this project can be downloaded by executing the 'Download' cell in the notebook.
 
+### Sample of correct predictions
+
+![](https://gitlab.com/willyfitrahendria/cat-breed-classification-using-cnn/-/raw/master/sample%20prediction/correct-predictions.jpg)
 
 ### References
 [1] https://www.robots.ox.ac.uk/~vgg/data/pets/
