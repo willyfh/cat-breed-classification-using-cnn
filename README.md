@@ -1,4 +1,4 @@
-# Cat Breed Classification Using CNN
+# Cat Breed Classification Using Convolutional Neural Networks
 
 ### Overview
 
